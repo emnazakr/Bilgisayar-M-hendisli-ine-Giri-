@@ -1,3 +1,5 @@
 # Bilgisayar-M-hendisli-ine-Giri-
-og No: 16008122099
-AdSoyad: emna zakraoui
+og No1: 16008122099
+AdSoyad: EMNA ZAKRAOUI
+og No2:16008124091
+AdSoyad: HIBA FIRAS SHAYEA AL-BAIDHANI
